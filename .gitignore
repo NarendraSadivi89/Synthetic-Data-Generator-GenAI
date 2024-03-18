@@ -1,0 +1,7 @@
+.env
+.venv/
+.idea/*
+__pycache__/*
+*.db
+*.json
+schema_processor.py
